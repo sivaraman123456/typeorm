@@ -2,7 +2,7 @@ export const swagger_api={
     "swagger": "2.0",
     "info": {
       "version": "1.0.0",
-      "title": "Sample API",
+      "title": "Login Register API",
       "description": "A sample API with Swagger documentation"
     },
     "basePath": "/",
